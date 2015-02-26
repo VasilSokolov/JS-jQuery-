@@ -1,0 +1,52 @@
+body {
+	background-color: #eee;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+#container {
+	background-color: white;
+	width: 800px;
+	margin: 0 auto;
+}
+
+#header {
+	padding: 10px;
+	background-color: #66ccee;
+	color:white;
+	text-align: center;
+}
+
+#content {
+	padding: 10px;
+}
+
+#nav {
+	width:180px;
+	float:left;
+}
+
+ul li {
+	display: inline-block;
+
+}
+
+.selected {
+	font-weight: bold;
+}
+
+#main {
+	width: 600px;
+	float: right;
+}
+
+#footer {
+	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: white;
+	text-align: right;
+}

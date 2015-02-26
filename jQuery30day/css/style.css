@@ -1,0 +1,10 @@
+@import url(normalize.css);
+
+/*--------Day---------*/
+body {
+	background-color: yellow;
+	color: black;
+}
+
+/*--------Night---------*/
+

@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+	<title>jQuery UI Accordion</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="css/ui/jquery-ui-1.9.2.custom.min.css">
+</head>
+<body>
+	<div id="tabs">
+		<ul>
+			<li><h3><a href="#one">One!</a></h3></li>
+			<li><h3><a href="#two">Two!</a></h3></li>
+			<li><h3><a href="#three">Three!</a></h3></li>
+		</ul>
+		<div id="one">This is tabs 1</div>
+		<div id="two">This is tabs 2</div>
+		<div id="three">This is tabs 3</div>
+	</div>
+	<button id="changeAnimations">Change the animations!</button>
+	<script type="text/javascript" src="js/jquery-1.8.3.js"></script>
+	<script type="text/javascript" src="js/jquery-ui-1.9.2.custom.min.js"></script>	
+	<script>
+		$(function  () {
+			$("#tabs").tabs();
+			$("#changeAnimations").on("click", function  () {
+				$("#tabs").tabs("option", "hide", "explode");
+			})
+		});
+	</script>
+</body>
+</html>

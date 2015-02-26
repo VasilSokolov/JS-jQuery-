@@ -1,0 +1,19 @@
+.fram {
+	width: 400px;
+	height: 300px;
+	position: relative;
+	overflow: hidden;
+}
+
+.sliders {
+	width: 800px;
+	height: 300px;	
+	position: absolute;
+}
+
+.slider {
+	width: 400px;
+	height: 300px;
+	float: left;
+	display: none;
+}

@@ -1,0 +1,22 @@
+.poll {
+    color: green;
+    width: 800px;
+    height: auto;
+    margin: 45px;
+    margin-bottom: 15px;
+    position: absolute;
+
+}
+
+p{
+    color: blue;
+    position:relative;
+}
+
+.poll-bar {
+    height: 30px;
+    background-color: #777;
+    border: 3px solid pink;
+    margin: 0;
+    width: 0;
+}

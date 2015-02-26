@@ -1,0 +1,22 @@
+.slider{
+    overflow: hidden;
+    width: 900px;
+    height: 470px;
+    float: left;
+}
+
+.slider img {
+    border: 1px solid black;
+    position: absolute;
+}
+
+.next, .prev {
+    float: left;
+    height: 470px;
+    cursor: pointer;
+}
+
+.clear { visibility:hidden; clear:both; }
+
+.circles { text-align:center; width: 900px; padding:20px; }
+.circles a { display:inline-block; padding:0px 10px; text-decoration:none; }

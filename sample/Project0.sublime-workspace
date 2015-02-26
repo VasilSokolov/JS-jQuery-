@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"day"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"rem",
+				"removeClass〔function〕"
+			],
+			[
+				"tab",
+				"tab-content"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"slid",
+				"slideToggle〔function〕"
+			],
+			[
+				"slide",
+				"slideUp〔function〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"d",
+				"drag"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"e",
+				"enable"
+			],
+			[
+				"item",
+				"itemElements"
+			],
+			[
+				"tool",
+				"toolbarItem"
+			],
+			[
+				"too",
+				"toolbarItem〔variable〕"
+			],
+			[
+				"cr",
+				"createElement〔function〕"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"se",
+				"sans-serif"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"php",
+				"phpinfo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Project0.sublime-project",
+			"settings":
+			{
+				"buffer_size": 175,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Project0.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 9099,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"proj",
+				"Project: Add Folder"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"edit",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"istal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"istap",
+				"Package Control: Install Package"
+			],
+			[
+				"is",
+				"Package Control: Install Package"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"instp",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"snip h",
+				"Snippet: html"
+			],
+			[
+				"snipp ",
+				"Snippet: html"
+			],
+			[
+				"emet",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"sni ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"synta",
+				"Set Syntax: HTML"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syn jas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/asdasdasd",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/sample/jquert.js",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/afte.js",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/style.css",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/sample/main.js",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQuery30day/js/main.js",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQuery30day/css/night.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQuery30day/css/prefixr.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQuery30day/css/style.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQuery30day/index.html",
+		"/C/Users/123/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryDesigners/js/style.js",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryDesigners/css/style.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryDesigners/index.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryDesigners/Tabs/css/style.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryDesigners/Tabs/js/main.js",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryDesigners/Tabs/index.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryDesigners/Tabs/css/normalize.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryDesigners/Tabs/style.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryDesigners/js/jquery-1.11.2.min.js",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/test/test.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jsGallery/css/style.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jsGallery/js/js.js",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jsGallery/index.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryUiInteraction/draggable.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryUiInteraction/js/js,js",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryUiInteraction/draggable..html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryUI/accordion.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryUI/tabs.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/jQueryUI/test.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/JavaScriptOOP/toolbar/toolbar.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/JavaScriptOOP/toolbar/toolbar.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/JavaScriptOOP/toolbar/toolbar.js",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/JavaScriptFundamental/test.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/JavaScriptFundamental/test.js",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/ReproduceWebsiteFragment/index.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/ReproduceWebsiteFragment/css/style.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/forms.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/css/form.css",
+		"/C/Users/123/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/123/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/123/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/css/navigation.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/navigation.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/navigation.thml",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/index2.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/css/style2.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/css/style.css",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/index.html",
+		"/D/xampp/xampp/htdocs/SublimeTextTest/style.js",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/Model/test.js",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/Model/1.php",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/Model/index.html",
+		"/C/Users/123/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/View/List.php",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/View/Login.php",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/Model/User.php",
+		"/C/Users/123/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/xampp/htdocs/2.php",
+		"/D/xampp/xampp/htdocs/PHPProjects/trunk/LoginFormPhonebook(NoFramework)/index.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"href",
+			"auto",
+			"name",
+			"l",
+			"lllasd",
+			"you",
+			"tex",
+			"Some",
+			"you",
+			"some",
+			"whont",
+			"user",
+			"d",
+			"protected",
+			"();\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Project0.sublime-project",
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Project0.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 9099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"/C/Users/123/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+			],
+			[
+				"user",
+				"Model/User.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true
+}
